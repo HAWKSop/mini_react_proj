@@ -10,6 +10,7 @@ A project demonstrating a minimalist ToDo list design using React and Tailwind C
 - [Usage](#usage)
 - [Future Plans](#future-plans)
 - [Contributing](#contributing)
+- [Images](#images)
 
 
 
