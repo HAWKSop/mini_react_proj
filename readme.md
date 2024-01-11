@@ -40,7 +40,8 @@ Welcome to my project portfolio! Here, I showcase a collection of projects I've 
 
 ## Contributions
 
-Feel free to contribute to any of my projects or provide feedback. Contributions are always welcome! Follow the [contribution guidelines](CONTRIBUTING.md) if available.
+Feel free to contribute to any of my projects or provide feedback. Contributions are always welcome! 
+
 
 ## Contact
 
