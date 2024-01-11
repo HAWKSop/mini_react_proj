@@ -9,6 +9,7 @@ A simple password generator built with React and Tailwind CSS, featuring a minim
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Images](#images)
 
 
 
@@ -70,5 +71,8 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 4. Push to the branch: `git push paswrdGen feature-name`.
 5. Open a pull request.
 
+## Images
+
+![Password Generator](./screenshot/1.jpeg)
 
 
