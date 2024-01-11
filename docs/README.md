@@ -67,6 +67,9 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
 3. Make your changes and commit them: `git commit -m 'Description of changes'`.
-4. Push to the branch: `git push origin feature-name`.
+4. Push to the branch: `git push docs feature-name`.
 5. Open a pull request.
+
+## Images
+
 
