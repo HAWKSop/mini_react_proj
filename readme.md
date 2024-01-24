@@ -5,10 +5,7 @@ Welcome to my project portfolio! Here, I showcase a collection of projects I've 
 ## Table of Contents
 
 - [Projects](#projects)
-- [Technologies](#technologies)
-- [Contributions](#contributions)
-- [Contact](#contact)
-- [License](#license)
+
 
 ## Projects
 
