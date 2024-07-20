@@ -11,7 +11,7 @@ Welcome to my project portfolio! Here, I showcase a collection of projects I've 
 
 ### Project 1: [Password Generator](https://github.com/HAWKSop/mini_react_proj/tree/main/passwordGenerator)
 
-- Description: Brief description of the project.
+- Description: 
 - Technologies: React, Tailwind CSS, etc.
 
 - Screenshots:
@@ -20,7 +20,7 @@ Welcome to my project portfolio! Here, I showcase a collection of projects I've 
 
 ### Project 2: [To do list desgin](https://github.com/HAWKSop/mini_react_proj/tree/main/docs)
 
-- Description: Brief description of the project.
+- Description: 
 - Technologies: React, Tailwind CSS, etc.
 
 - Screenshots:
